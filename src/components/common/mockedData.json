@@ -1,0 +1,132 @@
+[
+    {
+     "id": 0,
+     "jobId": "All",
+     "title": "All"
+    },
+    {
+     "id": 1,
+     "jobId": "Supervisor",
+     "title": "Supervisor"
+    },
+    {
+     "id": 2,
+     "jobId": "Associate",
+     "title": "Associate"
+    },
+    {
+     "id": 3,
+     "jobId": "Executive",
+     "title": "Executive"
+    },
+    {
+     "id": 4,
+     "jobId": "Liaison",
+     "title": "Liaison"
+    },
+    {
+     "id": 5,
+     "jobId": "Officer",
+     "title": "Officer"
+    },
+    {
+     "id": 6,
+     "jobId": "Manager",
+     "title": "Manager"
+    },
+    {
+     "id": 7,
+     "jobId": "Engineer",
+     "title": "Engineer"
+    },
+    {
+     "id": 8,
+     "jobId": "Specialist",
+     "title": "Specialist"
+    },
+    {
+     "id": 9,
+     "jobId": "Director",
+     "title": "Director"
+    },
+    {
+     "id": 10,
+     "jobId": "Coordinator",
+     "title": "Coordinator"
+    },
+    {
+     "id": 11,
+     "jobId": "Administrator",
+     "title": "Administrator"
+    },
+    {
+     "id": 12,
+     "jobId": "Architect",
+     "title": "Architect"
+    },
+    {
+     "id": 13,
+     "jobId": "Analyst",
+     "title": "Analyst"
+    },
+    {
+     "id": 14,
+     "jobId": "Designer",
+     "title": "Designer"
+    },
+    {
+     "id": 15,
+     "jobId": "Planner",
+     "title": "Planner"
+    },
+    {
+     "id": 16,
+     "jobId": "Orchestrator",
+     "title": "Orchestrator"
+    },
+    {
+     "id": 17,
+     "jobId": "Technician",
+     "title": "Technician"
+    },
+    {
+     "id": 18,
+     "jobId": "Developer",
+     "title": "Developer"
+    },
+    {
+     "id": 19,
+     "jobId": "Producer",
+     "title": "Producer"
+    },
+    {
+     "id": 20,
+     "jobId": "Consultant",
+     "title": "Consultant"
+    },
+    {
+     "id": 21,
+     "jobId": "Assistant",
+     "title": "Assistant"
+    },
+    {
+     "id": 22,
+     "jobId": "Facilitator",
+     "title": "Facilitator"
+    },
+    {
+     "id": 23,
+     "jobId": "Agent",
+     "title": "Agent"
+    },
+    {
+     "id": 24,
+     "jobId": "Representative",
+     "title": "Representative"
+    },
+    {
+     "id": 25,
+     "jobId": "Strategist",
+     "title": "Strategist"
+    }
+   ]
